@@ -45,23 +45,22 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Has been playing Dota 1 since it became public
 - Played other video games as a child - mostly Blizzard games
 - Had to hide video game habit from parents ("visiting friends") - parents used to read scary news articles about kids being kidnapped via video games
-- Went to college - UNC Chapel Hill - pre-Med
+- Went to college - University of North Carolina (UNC) Chapel Hill - pre-Med
 - Fan of Duke and UNC but Duke was insanely expensive
 - When he joined UNC, Dota 1 was still going on
 - Played casually.  Wanted a single room because used "colourful" language while playing
 - Got pretty decent in NA back then, but didn't go to any LANs.
 - Wasn't sure how good relatively to Europe, ping was high, so he didn't play against them
-- **How much Dota 1 did you play?** Played in inhouse leagues like ICS and IDEC, with players like Synderen, Puppey, Kuro, PGG, Garter
-- Fear was a legend back then
-- After coming back from class, even at high school, he used to watch Fear play the big names such as MYM, VP, and Dendi in Ukrainian teams
+- Played in inhouse leagues like ICS and IDEC, with players like Synderen, Puppey, Kuro, PGG and Garter
+- Fear was a legend back then.  After coming back from class, even at high school, he used to watch Fear play the big names such as MYM, VP, and Dendi in Ukrainian teams
 - Dota became his next thing after trivia
-- Didn't enjoy school, did it as an obligation more than anything.  Half-assed his studies
-- Towards the end of Dota 1, he got to play in MYM Prime Nations (World Cup of Dota back then).  Fear asked him to make an NA team, alongside Demon, PowerNet ("the original Arteezy, good at farming and laning" - Synderen aggrees), Hai Lua
-- Demon was a legend in Dota 1 - mechanically excellent, top 3 besides China
-- Back then, he was mostly a midlaner, playing playmaker heroes like Clockwerk, Rubick, and Disruptor.  Anything that can make things happen.
+- Didn't enjoy school - did it as an obligation more than anything.  Half-assed his studies
+- Towards the end of Dota 1, he got to play in MYM Prime Nations (World Cup of Dota back then).  Fear asked him to make an NA team, alongside Demon, PowerNet ("the original Arteezy, good at farming and laning" - Synderen agrees), Hai Lua
+- Demon was a legend in Dota 1 - mechanically-excellent, top 3 besides China
+- Back then, he was mostly a midlaner, playing playmaker heroes like Clockwerk, Rubick, and Disruptor.  Anything that can make things happen
 - In MYM Prime Nations, the Denmark stack (Maelk, Mania), Russia stack (Vigoss), Ukraine stack (Dendi, Goblak, DkPhobos) were great
 - Used to flame a lot unless he was on a team
-- Thought Synderen was very good back then (own team, top 5-10)
+- Thought Synderen was very good back then (he had his own team, and consistently placed top 5-10)
 - There was a lot of beef and trash-talking back then
 - Watched replays and Gosugamers content (Reddit before Reddit)
 
@@ -69,7 +68,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Won MYM Prime Nations at the end of his 2nd year
 - 3rd year: Dota 2 and The International announced
 - Wasn't a fan of Dota 2.  Thought it was a scam (they had been scammed by TOs and teams), and the $1m was too good to be true
-- Parents asked if he would go into esports as a career - of course not.  This is just a game
+- Parents asked if he would go into esports as a career: "Of course not.  This is just a game"
 - Was heading to India for a holiday and to visit relatives.  Before this, Fear asked him to join OK.Nirvana for The International
 - Unfortunately, he ended up going to India instead
 - Ended up casting the tournament with Draskyl on NeoDota, and felt rather depressed because he wasn't at the event
@@ -89,15 +88,15 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Super had the best Storm Spirit, so he watched these replays
 - Strong heroes here were Dragon Knight, Storm Spirit, and Batrider.  Super was the king of all three
 - They ended up owning groups
-- People playing Morphling mid which he found annoying
+- People were playing Morphling mid which he found annoying
 - Tinker was perma-banned against them.  Apparently he played some annoying March of the Machines strategy at another tournament, and beat Na\`Vi with it, so teams started banning it against him
-- Made winners bracket, where they played IG (vs. Ferrari_430).  It was his first time on stage.  Ferrari_430 played Templar Assassin, against his Qwas-Wex Invoker.  He got massacred
+- Made winners bracket, where they played IG (vs. Ferrari_430).  It was his first time on stage.  Ferrari_430 played Templar Assassin, against his Quas-Wex Invoker.  He got massacred
 - Since he used to trash-talk back then, and his fans used to love it, the blowback of losing was brutal
 - Ferrari_430 did all sort of tricks that Western players were unaware of
 - After TI2, he got kicked.  Demon made a meme video about him being kicked.  The kick was super-demoralising
 
 ### Graduation and to TI3 (00:32:09)
-- Told his parents about the fake lab several years after this (i.e. they thought he was at the lab but was also really good at Dota)
+- Told his parents about the fake lab several years after this (i.e. they thought he was working at the lab, but was also really good at Dota)
 - Didn't want to drop out of college entirely, with nothing to show for it.  So he went back to finish his degree, whilst playing professionally for TI3.
 - Didn't get into medical school, but got a Double Major in Biology and Political Science (Political Science was a meme degree).  (SUNSfan points out his brother has such a degree)
 - Wanted "Double Major" because it looked cooler
@@ -116,7 +115,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - This was when Arteezy came onto the scene
 - The team shuffled after TI3.  ixMike and Korok were kicked (although he can't remember why they kicked Korok), replacing them with Qojqva and waytoosexy.  Qojqva was chosen because he played all the broken heroes like Nature's Prophet
 - Unfortunately, the team got much worse
-- Thinkks FLUFFNSTUFF and waytoosexy both tried to be captains, so there were lots of arguments
+- Thinks FLUFFNSTUFF and waytoosexy both tried to be captains, so there were lots of arguments
 - Considers FLUFFNSTUFF to have been a very good captain.  Very motivational, nice person, and hard worker
 - FLUFFNSTUFF is now a day trader, and is well-off now
 - FLUFFNSTUFF eventually left the team, and he shifted from core to support.  He felt he had to take more of a leadership role with FLUFFNSTUFF leaving
@@ -154,7 +153,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - A lot of jokes in the team still.  Fear and Charlie were jokers
 - Was a big fan of CDEC.  They had scrimmed CDEC a few times
 - Sumail demolished everyone mid, so they always had a huge advantage.  Nobody knew how to deal with Sumail back then, which wouldn't be the case in modern Dota
-- **Aui did one of the nicest things for him.  While bootcamping in Alameda, Phil, Aui and him were in the car.  Aui asked about the deal he had with the team (there was none).  Aui then said that if they ended up winning and felt you did a good job, we'll get you something.**
+- **Aui did one of the nicest things for him.  While bootcamping in Alameda, Phil, Aui and him were in the same car.  Aui asked about the deal he had with the team (there was none).  Aui then said that if they ended up winning and felt you did a good job, we'll get you something.**
 - Learnt a lot from the team, like ppd's shotcalling, Charlie on how he managed the team well and kept things in line, and how EG communicated
 - The only main source of tension was in group stages where they got Brooded (by Vega Squadron?)
 - Played Complexity 1st round in the playoffs, where he got some pleasure in watching Sumail dumpster Kyle
@@ -173,17 +172,17 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Ended up joining DC with Aui
 - **SUNSfan:** FML, we chose this roster over OG [ed: original roster was awful]
 - **SUNSfan:** Astronomical improvement over old roster after swap (-Biryu +1437 -TC +Reso -Yawar +Saksa)
-- Thought Reso was the best mid on Europe at the time.  Always was, always will be (see also: TI11)
+- Thought Reso was the best mid on Europe at the time.  Always was a beast, and always will be (see also: TI11)
 - Saksa was an unknown at the time.  He and Aui scouted and researched him.  Pleasantly surprised at how good he turned out to be
 - Regret: After winning TI5, he and Aui put a lot of pressure on the team.  They had unfair expectations - "just be like Sumail"
 - Team atmosphere was good
 - Didn't want to make same mistakes for TI4-5 where he got lazy, so he started grinding.  He reached rank 1 in NA at some point
-- EG approached him and Aui again (this was a few days before the roster lock)
+- EG approached him and Aui again (**SUNSfan:** This was a few days before the roster lock)
 - Was friends with Arteezy since TI2, did lane practice with him a lot
 - A lot of internal issues on EG
 - They used to play well in practice matches, but a lot worse in officials
-- Got kicked after Manilla Major
-- Joined Secret.  They still considered him a good offlaner, and were also interested in his leadership from the offlane.  They wanted this foil for EternalEnvy and Arteezy
+- Got kicked after Manila Major
+- Joined Secret.  They still considered him to be a good offlaner, and were also interested in his leadership from the offlane.  They wanted this foil for EternalEnvy and Arteezy
 - EternalEnvy and Arteezy were good friends with him.  The three were collectively considered to be the goons of the team
 - Talked with Puppey a lot in Istanbul on bootcamp during the coup
 - Qualifiers were hard
@@ -201,7 +200,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Tangent: After TI5, he bombed out of Frankfurt Major vs. Ritsu with Digital Chaos.  So he went back to coach EG again for Frankfurt Major, getting top 3
 - Tangent - Majors were cool.  **Synderen:** Shanghai Major was a mess but the players loved it
 - Didn't qualify for Shanghai.  Blitz was at Liquid while sharing casting duties, and spoke with him about coaching Liquid.
-- At the time, he didn't know the Liquid guys much.  He knew Jerax from as an Earth Spirit spammer, and Matumabaman was on the Finnish stack previously, but not much more
+- At the time, he didn't know the Liquid guys much.  He knew Jerax as an Earth Spirit spammer, and Matumabaman was on the Finnish stack previously, but not much more
 - Liquid was very different to other teams
 - Kuroky did things in a very respectful way, and he in turn has so much respect for him
 - Kuroky introduced him as coach, and asked team to respect him
@@ -219,7 +218,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - DuBu was his favourite 5 that year.  Great shotcaller, and plays fast Dota that he enjoyed
 - Team Onyx: Mason, Demon, Abed, DuBu and himself
 - Switched to 4, his favourite role (anything but 5)
-- Later Kicked Demon for Forev
+- Later kicked Demon for Forev
 - Although they didn't do great at TI7, he enjoyed the experience
 
 ### Coaching EG permanently (01:26:00)
@@ -229,7 +228,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Can't remember what role he played
 - Abed is probably the best teammate he's ever played with.  This is when he started to love SEA players - low ego, hard-working, high-skilled, and want to learn
 - Abed left, despair set in (although he thought Abed would have no issues finding a team, so was happy for him)
-- Realised at this point he cannot win TI as a player.  9th-16th maybe but not more.  He had to sacrifice his playing desires to become a coach
+- Realised at this point he cannot win TI as a player.  9th-16th maybe but not more.  He had to sacrifice his desire to win TI as a player in some way
 - Free agent at this point, looking to make a team with SEA players, or coach
 - Was offered EG coach role.  This was a big decision - effectively giving up his playing career
 - Initially wanted to coach but only until TI8.  Maybe if he won TI as a coach, he could be able to play on a good team again.  That was his main goal.  He didn't want to let go of his dream of winning TI as a player
@@ -239,12 +238,12 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Grateful for all the hard truths over the years in retrospect
 
 ### To TI8 (01:32:00)
-- Roles were utterly messed-up when he joined
+- Roles were utterly messed-up when he joined [ed: This was Arteezy, Fear, offlane Sumail, Cr1t- and Misery]
 - Team did not get along
 - Shuffle: Added s4 and Fly
 - Post-shuffle, the egos were low, and everyone was humble, considering the team's struggles that year
 - Coaching-wise, thought this was the best team he'd been on that could win TI in the last few years
-- Lots of respect for Fly: loyal friend [ed: his words, not mine], very easy to talk to, very smart - just a really good person as a whole
+- Lots of respect for Fly: loyal friend [ed: his words, not mine], very easy to talk to, and very smart - just a really good person as a whole
 - 3rd at TI8 - clearly not bad, but disappointing as our strategies were good and everyone was playing well
 - Didn't think much of OG at TI8 (nobody did).  But TI9 OG - god-tier team
 - Big decision - continue as coach or go back to playing?  He had offers to go back playing
@@ -269,7 +268,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - **PSA to all gamers:** Do your exercises
   - Had back pains.
   - Had a herniated disc injury, that he had to have an operation on
-- During COVID season, they won some tournaments, and he got to tell other players they're losing to a 30-year-old washed up offlaner
+- During COVID season, they won some tournaments, and he got to tell other players they're losing to a 30-year-old washed-up offlaner
 - Ramzes left - he got tired playing offlane in pubs
 - Got iceiceice - everyone respected him on the team
 - With the DPC back on schedule, the team was somewhat back on track.  They kept a lot of ideas and attitude from the previous roster, despite the change
@@ -289,9 +288,9 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Team Spirit winning felt like new players were taking over
 - Has known Nightfall for a while, and was convinced the Ramzes experiment would have worked, so this could have done so too
 - Fly kicked - one of the biggest regrets he's had
-- Felt that the top placements were being taken for granted - got complacement
+- Felt that the top placements were being taken for granted - got complacent
 - With Jerax, a close friend, maybe his addition was also thinking with his heart rather than his head
-- Felt bad for Nightfall with visa issues (Ukraine war).  In one circumstance, he had to go to Mexico City last minute with him.  They had to bootcamp in 3 different locations too.  The situation was understandably bad for Nightfall
+- Felt bad for Nightfall with visa issues (Ukraine war).  In one circumstance, he had to go to Mexico City last-minute with him.  They had to bootcamp in 3 different locations too.  The situation was understandably bad for Nightfall
 - Due to visa issues, they had MSS stand-in temporarily too
 - Discovered that (in hindsight) without Fly, there was no leader on the team
 - Felt bad for Jerax and Nightfall - the situation was clearly dreadful for them
@@ -300,11 +299,11 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
 - Their scrim winrate was insane all season, even pre-Stockholm Major - 80-90%.
   - In previous years - scrims were thrown thanks to Arteezy and Sumail (still loves them of course)
   - Hard to fix things when your practice games go so well - what do you fix?
-  - OG manager spoke to him - apparently EG were the strongest teams they scrimmed with.
+  - OG manager spoke to him - apparently EG were amongst the strongest teams they scrimmed with
   - Very good against LGD in scrims too
 - TI group stages - amazing, basically like scrims
 - Not perfect - they had communication issues, something that had happened all year
-- Some people thought it was stupid to pick Thunder Awaken.  But EG had scrimmed them all season and beat them all the time.  Thunder Awaken also cancelled scrims against them in the past.  Felt they knew their style and they didn't change much.  Matthew asked him why they picked - it was because they beat them a lot all the time.
+- Some people thought it was stupid to pick Thunder Awaken.  But EG had scrimmed them all season and beat them all the time.  Thunder Awaken also cancelled scrims against them in the past.  Felt they knew their style and they didn't change much.  Matthew asked him why they picked - it was because they beat them a lot all the time
 - Technical issues around audio didn't help
 - Communication-wise, wasn't sure why this happened, but this was not the same team, in terms of communication, from the group stages
 - Still trying to think what he could have done better as a coach for the team
@@ -351,7 +350,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
   - Terrain changes is an easy one
   - Current patch feels pretty good
   - Usually fine with any patch anyway
-  = Last few patches feel very "nerdy", everyone goes into intense detail into mechanics
+  - Last few patches feel very "nerdy", everyone goes into intense detail into mechanics
   - Might be why these new young players do so well - all they do is play Dota
 - **SUNSfan:** Big patches or small patches?
   - Will take whatever he gets
@@ -360,7 +359,7 @@ This is a "summary" of [BuLba's interview with SUNSfan and Synderen on their We 
   - Wouldn't mind taking away some neutral camps
 - **SUNSfan:** Second Roshan?
   - **BuLba:** Is this your idea?
-  - SUNSfan: I pitch this to everyone.  Remember, a lot of stupid things I've said before have gone into the game eventually.  Imagine if there are two pits, one in the old location.  When Roshan dies, he spawns in the opposite cave.
+  - **SUNSfan:** I pitch this to everyone.  Remember, a lot of stupid things I've said before have gone into the game eventually.  Imagine if there are two pits, one in the old location.  When Roshan dies, he spawns in the opposite cave.
   - **BuLba:** Why don't you do this in your custom games?  (**SUNSfan:** PoG apparently has something like this)
   - Doesn't play custom games in general
 
@@ -379,7 +378,7 @@ Note: For a trivia buff, apparently BuLba asked terrible questions
   - **Synderen:** Thinks The Two Towers is the worst, so it's Dark Knight (wrong).
   - **BuLba:** It's The Two Towers.  Helm's Deep was a godly scene.
   - **Synderen:** That 45 minute fight scene should have been 5 minutes.  Worst part of the movie.  Doesn't advance the plot.
-  - Also some random ramblings about Avatar
+  - Also some random debates about Avatar
 - **SUNSfan:** What is Synderen's dog name when translated to English?  Tomato, carrot, leek or onion?
 - **BuLba:** Carrot (wrong)
 - **SUNSfan:** Congratulations, the trivia buff got all the trivia questions wrong
