@@ -1191,14 +1191,17 @@ tunisia Rainbow Six: Kendrew
 tunisia Rocket League: ImaginaXion
 tunisia Valorant: Djaz
 =====================
-türkiye
-org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https://esportsnationscup.com/en/national-teams/t%C3%BCrkiye/2026]
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:879)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:818)
-	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:346)
-	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:331)
-	at org.jsoup.Jsoup.parse(Jsoup.java:263)
-	at com.company.EncStaff.main(EncStaff.java:23)
+turkiye
+turkiye manager: Mert Tanriverdi
+turkiye Dota 2: leni
+turkiye Honor of Kings: ASG
+turkiye League of Legends: craft1x
+turkiye ML:BB: Midnight
+turkiye PUBG: ctrkN
+turkiye PUBG: Mobile: F0r1st
+turkiye Rainbow Six: Julio
+turkiye Rocket League: zgocbrayt
+turkiye Valorant: KEY
 =====================
 turkmenistan
 turkmenistan manager: Mekan Eyeberdiyev
