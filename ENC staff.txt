@@ -425,7 +425,7 @@ germany Valorant: Kapio
 ghana
 ghana manager: Ebenezer Kwesi Hayford
 ghana Dota 2: Ceelo
-ghana Honor of Kings: Jalu
+ghana Honor of Kings: WiseLess
 ghana League of Legends: GreySaru
 ghana ML:BB: shyBOY
 ghana PUBG: Tyrone
@@ -690,7 +690,7 @@ lebanon PUBG: SnorlaXx
 lebanon PUBG: Mobile: JAD
 lebanon Rainbow Six: MsamiX
 lebanon Rocket League: Sal
-lebanon Valorant: Dav1
+lebanon Valorant: Rub1ck
 =====================
 lesotho
 lesotho manager: ENC Regional Manager
@@ -772,7 +772,7 @@ mexico manager: Emmanuel Neyra
 mexico Dota 2: Arroyito
 mexico Honor of Kings: arvoinen
 mexico League of Legends: Deam
-mexico ML:BB: N/A
+mexico ML:BB: GMX-Dáré¢k
 mexico PUBG: Mobile: TBA
 mexico Rainbow Six: Royz
 mexico Rocket League: noly
@@ -1192,7 +1192,6 @@ tunisia Rocket League: ImaginaXion
 tunisia Valorant: Djaz
 =====================
 türkiye
-=====================
 org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https://esportsnationscup.com/en/national-teams/t%C3%BCrkiye/2026]
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:879)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:818)
@@ -1200,6 +1199,7 @@ org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https:/
 	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:331)
 	at org.jsoup.Jsoup.parse(Jsoup.java:263)
 	at com.company.EncStaff.main(EncStaff.java:23)
+=====================
 turkmenistan
 turkmenistan manager: Mekan Eyeberdiyev
 turkmenistan Dota 2: XYZ
@@ -1228,7 +1228,7 @@ ukraine Rocket League: Skeenny_
 ukraine Valorant: Johnta
 =====================
 united-arab-emirates
-united-arab-emirates manager: Abdelrahman Abdalla Mohamed
+united-arab-emirates manager: Abdelrahman Mohamed
 =====================
 united-republic-of-tanzania
 united-republic-of-tanzania manager: ENC Regional Manager
