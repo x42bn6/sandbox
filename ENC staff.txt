@@ -295,7 +295,13 @@ czechia Rocket League: ToXx
 czechia Valorant: Vašek
 =====================
 democratic-peoples-republic-of-korea
-democratic-peoples-republic-of-korea manager: ENC Regional Manager
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https://esportsnationscup.com/en/national-teams/democratic-peoples-republic-of-korea/2026]
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:879)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:818)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:346)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:331)
+	at org.jsoup.Jsoup.parse(Jsoup.java:263)
+	at com.company.EncStaff.main(EncStaff.java:23)
 =====================
 timor
 timor manager: Camacho Ramos da Silva Pinto
