@@ -21,6 +21,15 @@ antigua-and-barbuda manager: ENC Regional Manager
 =====================
 argentina
 argentina manager: Mariel Lluch
+argentina Dota 2: Worlock
+argentina Honor of Kings: Zurd10s
+argentina League of Legends: Pointless
+argentina ML:BB: Max
+argentina PUBG: Black
+argentina PUBG: Mobile: WATSON
+argentina Rainbow Six: R1ck
+argentina Rocket League: pekitas
+argentina Valorant: Romanilly
 =====================
 armenia
 armenia manager: ENC Regional Manager
@@ -30,21 +39,65 @@ aruba manager: ENC Regional Manager
 =====================
 australia
 australia manager: Hayden Shiels
+australia Dota 2: QO
+australia Honor of Kings: Sharks
+australia League of Legends: Spawn
+australia ML:BB: Kaylio
+australia PUBG: Xtreme
+australia PUBG: Mobile: Kronicx
+australia Rainbow Six: Naate
+australia Rocket League: LBP
+australia Valorant: Elmapuddy
 =====================
 austria
 austria manager: Manuel Haselberger
+austria League of Legends: Vil
+austria ML:BB: Pink Ying
+austria PUBG: FoxtrottL
+austria Rainbow Six: K_FLO_K
+austria Rocket League: Skizzen
+austria Valorant: Matrixx
 =====================
 azerbaijan
 azerbaijan manager: Rasad Fazil
+azerbaijan Dota 2: ilwhnou
+azerbaijan Honor of Kings: TERREYAA
+azerbaijan League of Legends: Khan
+azerbaijan ML:BB: Boko
+azerbaijan PUBG: AAz1mov
+azerbaijan PUBG: Mobile: TBA
+azerbaijan Rainbow Six: SeboCSG
+azerbaijan Rocket League: Naedirr
+azerbaijan Valorant: Holly
 =====================
 bahamas
 bahamas manager: Adam Hanna
+bahamas League of Legends: Moarcookies
+bahamas ML:BB: Moarcookies
+bahamas PUBG: L0nerr
+bahamas PUBG: Mobile: L\0onerr
+bahamas Rainbow Six: L0nerr
+bahamas Rocket League: Pyro
+bahamas Valorant: Pyro
 =====================
 bahrain
 bahrain manager: Zainab AlTurabi
+bahrain League of Legends: sleek
+bahrain ML:BB: Mad
+bahrain PUBG: Mobile: KHKAroof
+bahrain Rocket League: kekv
+bahrain Valorant: ALOOY
 =====================
 bangladesh
 bangladesh manager: Aga Rafsan
+bangladesh Dota 2: Deaths
+bangladesh Honor of Kings: Ciiyan
+bangladesh League of Legends: ACE Zerovoid
+bangladesh ML:BB: GOWTHER
+bangladesh PUBG: Sova-Main
+bangladesh PUBG: Mobile: ABiDūū
+bangladesh Rocket League: Flying Black Man
+bangladesh Valorant: scorezy
 =====================
 barbados
 barbados manager: ENC Regional Manager
@@ -54,6 +107,13 @@ belarus manager: ENC Regional Manager
 =====================
 belgium
 belgium manager: Younes Lazaar
+belgium Dota 2: Snook'
+belgium League of Legends: Kaas
+belgium PUBG: pierrowww87
+belgium PUBG: Mobile: Kean
+belgium Rainbow Six: Eden
+belgium Rocket League: Eversax
+belgium Valorant: XanderKast
 =====================
 belize
 belize manager: ENC Regional Manager
@@ -78,12 +138,36 @@ botswana manager: ENC Regional Manager
 =====================
 brazil
 brazil manager: Yuri Cerezo Uchiyama
+brazil Dota 2: Astini
+brazil Honor of Kings: Liquet
+brazil League of Legends: tockers
+brazil ML:BB: YT Tsubasaa
+brazil PUBG: Rds149
+brazil PUBG: Mobile: A7Nice
+brazil Rainbow Six: igoorctg
+brazil Rocket League: brunovisqui
+brazil Valorant: shaw
 =====================
 brunei-darussalam
 brunei-darussalam manager: Xiao Hao Yee
+brunei-darussalam Honor of Kings: Alfie
+brunei-darussalam League of Legends: Adib
+brunei-darussalam ML:BB: Wizzking
+brunei-darussalam PUBG: Mobile: Bear
+brunei-darussalam Rainbow Six: Amalul
+brunei-darussalam Valorant: Simon
 =====================
 bulgaria
 bulgaria manager: Pavel Zarkov
+bulgaria Dota 2: SlashStrike
+bulgaria Honor of Kings: v1SaG3
+bulgaria League of Legends: v1SaG3
+bulgaria ML:BB: hOpBoy
+bulgaria PUBG: Savi0n
+bulgaria PUBG: Mobile: Cansehmus
+bulgaria Rainbow Six: Waiffer
+bulgaria Rocket League: Storm9
+bulgaria Valorant: itopata
 =====================
 burkina-faso
 burkina-faso manager: ENC Regional Manager
@@ -99,9 +183,26 @@ cambodia manager: ENC Regional Manager
 =====================
 cameroon
 cameroon manager: Francline Fonderson
+cameroon Dota 2: Lem Cee
+cameroon Honor of Kings: fishermann30
+cameroon League of Legends: fallait y penser
+cameroon ML:BB: hinta
+cameroon PUBG: xtorm mao
+cameroon PUBG: Mobile: Red V Obam
+cameroon Rainbow Six: Starboy237
+cameroon Rocket League: Fishermann
+cameroon Valorant: Overlord
 =====================
 canada
 canada manager: Dawson Lovell
+canada Dota 2: Curtis
+canada League of Legends: Dylan Falco
+canada ML:BB: PikaDiff
+canada PUBG: didz
+canada PUBG: Mobile: HEAVENN
+canada Rainbow Six: Helbee
+canada Rocket League: JKnaps
+canada Valorant: Stunner
 =====================
 cayman-islands
 cayman-islands manager: ENC Regional Manager
@@ -114,9 +215,27 @@ chad manager: ENC Regional Manager
 =====================
 chile
 chile manager: Tomás Mosqueira
+chile Dota 2: Ghost
+chile Honor of Kings: LeGiON
+chile League of Legends: Glon
+chile ML:BB: Laintime
+chile PUBG: ernzxr
+chile PUBG: Mobile: Mia
+chile Rainbow Six: Drax
+chile Rocket League: Groval
+chile Valorant: WKN
 =====================
 colombia
 colombia manager: Mario Agudelo
+colombia Dota 2: pahk00
+colombia Honor of Kings: TheCris
+colombia League of Legends: Dye
+colombia ML:BB: Cast
+colombia PUBG: Lampago
+colombia PUBG: Mobile: rtpFernanz
+colombia Rainbow Six: Titan
+colombia Rocket League: Dg Dos
+colombia Valorant: StepheeN
 =====================
 comoros
 comoros manager: ENC Regional Manager
@@ -129,21 +248,51 @@ cook-islands manager: ENC Regional Manager
 =====================
 costa-rica
 costa-rica manager: Felipe Montoya
+costa-rica Dota 2: Guinsoo
+costa-rica League of Legends: Burrito
+costa-rica ML:BB: Shay
+costa-rica Rocket League: Wavepace
+costa-rica Valorant: Wilfried Zaha
 =====================
 cote-dIvoire
 cote-dIvoire manager: Jean-Philippe N'Guessan
+cote-dIvoire Dota 2: Orako
+cote-dIvoire League of Legends: Toiquatorze
+cote-dIvoire ML:BB: Bindcrusher
+cote-dIvoire PUBG: Mobile: ZOZO
+cote-dIvoire Rocket League: Docglish
+cote-dIvoire Valorant: Kiro
 =====================
 croatia
 croatia manager: Nikola Stolnik
+croatia Dota 2: Mitch
+croatia League of Legends: xani
+croatia PUBG: MaM1c
+croatia PUBG: Mobile: Pilzykor
+croatia Rainbow Six: med1cz
+croatia Rocket League: Rofko
+croatia Valorant: Gaudarzz
 =====================
 cuba
 cuba manager: Javier Vidal
+cuba Dota 2: D3troiT
+cuba PUBG: LACHYPLAY
+cuba Rainbow Six: DelyfoX
 =====================
 cyprus
 cyprus manager: ENC Regional Manager
 =====================
 czechia
 czechia manager: Jiří Plevka
+czechia Dota 2: scream
+czechia Honor of Kings: Zyo
+czechia League of Legends: Freeze
+czechia ML:BB: Waren1x
+czechia PUBG: Hawki
+czechia PUBG: Mobile: Levak
+czechia Rainbow Six: Breezy
+czechia Rocket League: ToXx
+czechia Valorant: Vašek
 =====================
 democratic-peoples-republic-of-korea
 org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https://esportsnationscup.com/en/national-teams/democratic-peoples-republic-of-korea/2026]
@@ -156,12 +305,22 @@ org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=[https:/
 =====================
 timor
 timor manager: Camacho Ramos da Silva Pinto
+timor Honor of Kings: JOAO
+timor ML:BB: NIO
 =====================
 democratic-republic-of-the-congo
 democratic-republic-of-the-congo manager: ENC Regional Manager
 =====================
 denmark
 denmark manager: Andreas Elversøe
+denmark Dota 2: Ivz
+denmark Honor of Kings: WitAscend
+denmark League of Legends: Pad
+denmark ML:BB: Slarkyyy
+denmark PUBG: Avnqr
+denmark Rainbow Six: Manny
+denmark Rocket League: fruity
+denmark Valorant: Desmo
 =====================
 djibouti
 djibouti manager: Eleyeh I.Daher
@@ -171,12 +330,25 @@ dominica manager: ENC Regional Manager
 =====================
 dominican-republic
 dominican-republic manager: Gabriel Garrido
+dominican-republic League of Legends: Kazuo
+dominican-republic ML:BB: Loyal.
+dominican-republic Rocket League: Tyzuko
+dominican-republic Valorant: Foss1l
 =====================
 ecuador
 ecuador manager: ENC Regional Manager
 =====================
 egypt
 egypt manager: Mostafa Hassan
+egypt Dota 2: Qui
+egypt Honor of Kings: SUHONGHONG
+egypt League of Legends: Presence
+egypt ML:BB: Lionheart
+egypt PUBG: EG_MO
+egypt PUBG: Mobile: egyptNOSHA
+egypt Rainbow Six: N1LL
+egypt Rocket League: shuffleverse
+egypt Valorant: ZE1SH
 =====================
 el-salvador
 el-salvador manager: ENC Regional Manager
@@ -204,9 +376,25 @@ fiji manager: ENC Regional Manager
 =====================
 finland
 finland manager: Eemeli Ikonen
+finland Dota 2: Notah
+finland League of Legends: HIIVA
+finland PUBG: Kova1evy
+finland PUBG: Mobile: J3TOO
+finland Rainbow Six: UUNO
+finland Rocket League: Metsanauris
+finland Valorant: KUNDIKUNDI
 =====================
 france
 france manager: Bora Kim
+france Dota 2: Kicknay
+france Honor of Kings: Xu
+france League of Legends: Zeph
+france ML:BB: NKS
+france PUBG: CaraZwolf
+france PUBG: Mobile: Dridriū
+france Rainbow Six: Stooflex
+france Rocket League: Ferra
+france Valorant: Happy
 =====================
 gabon
 gabon manager: ENC Regional Manager
@@ -216,27 +404,81 @@ gambia manager: ENC Regional Manager
 =====================
 georgia
 georgia manager: Tsotne Chogovadze
+georgia Dota 2: Davy Jones
+georgia League of Legends: Druk
+georgia ML:BB: fLywiThme
+georgia PUBG: Mobile: Natlia
+georgia Valorant: Deny
 =====================
 germany
 germany manager: Christian Lenz
+germany Dota 2: Jabbz
+germany Honor of Kings: Sya
+germany League of Legends: Arvindir
+germany ML:BB: Pauuu
+germany PUBG: Kowo
+germany PUBG: Mobile: ACTJIN
+germany Rainbow Six: Sua
+germany Rocket League: FreaKii
+germany Valorant: Kapio
 =====================
 ghana
 ghana manager: Ebenezer Kwesi Hayford
+ghana Dota 2: Ceelo
+ghana Honor of Kings: WiseLess
+ghana League of Legends: GreySaru
+ghana ML:BB: shyBOY
+ghana PUBG: Tyrone
+ghana PUBG: Mobile: TBA
+ghana Rainbow Six: Calebson
+ghana Rocket League: KarmzahPrince
+ghana Valorant: Castor
 =====================
 great-britain
 great-britain manager: Jeff Simpkins
+great-britain Dota 2: Kidaro
+great-britain Honor of Kings: BLAM
+great-britain League of Legends: Mac
+great-britain ML:BB: Psy
+great-britain PUBG: MiracU
+great-britain PUBG: Mobile: Abhi
+great-britain Rainbow Six: KangruKenny
+great-britain Rocket League: eekso
+great-britain Valorant: neilzinho
 =====================
 greece
 greece manager: Anastasios Eleftheriadis
+greece Dota 2: ReaLaxXx
+greece League of Legends: TheRock7
+greece ML:BB: Ly^^yo
+greece PUBG: Botsman22
+greece PUBG: Mobile: GANG
+greece Rainbow Six: Kpan
+greece Rocket League: Acrotic
+greece Valorant: iLka
 =====================
 grenada
 grenada manager: ENC Regional Manager
 =====================
 guam
 guam manager: Ken San Nicolas
+guam League of Legends: Revoshark or Rev
+guam ML:BB: Maine
+guam Rainbow Six: Bran Hernandez
+guam Rocket League: Turtles
+guam Valorant: Swehts
 =====================
 guatemala
 guatemala manager: Pablo Melgar
+guatemala Dota 2: Ashlom
+guatemala Honor of Kings: COR_ScorpioN
+guatemala League of Legends: Adniel
+guatemala ML:BB: EXBROUSEN
+guatemala PUBG: Joshua_Gco_
+guatemala PUBG: Mobile: Nahuelboy
+guatemala Rainbow Six: Kastiiel07
+guatemala Rocket League: AJSa
+guatemala Valorant: Poper
 =====================
 guinea
 guinea manager: ENC Regional Manager
@@ -252,48 +494,151 @@ haiti manager: ENC Regional Manager
 =====================
 honduras
 honduras manager: Rafael Urbina
+honduras Dota 2: Milo
+honduras Honor of Kings: Bradleyy
+honduras League of Legends: Hwan
+honduras ML:BB: Moon
+honduras PUBG: Mauro
+honduras Rainbow Six: Bronci
+honduras Rocket League: FerEmS
+honduras Valorant: Ecxilon
 =====================
 hungary
 hungary manager: Kis Balázs
+hungary Dota 2: doedie
+hungary League of Legends: tomoRRR
+hungary ML:BB: Xentar
+hungary PUBG: Ace
+hungary PUBG: Mobile: baGxi
+hungary Rainbow Six: Bone DaDDy
+hungary Rocket League: Beyond
+hungary Valorant: victorsoN
 =====================
 iceland
 iceland manager: Bjarki Már Sigurðsson
+iceland Dota 2: woofer
+iceland League of Legends: Aloxeo
+iceland PUBG: stinni91
+iceland Rocket League: Vaddimah
+iceland Valorant: Axel
 =====================
 india
 india manager: Akhil Kavuturu
+india Dota 2: NO_Chanc3
+india Honor of Kings: Rinnqt
+india League of Legends: Kaka
+india ML:BB: Dale
+india PUBG: Aurum
+india PUBG: Mobile: Ayogi
+india Rainbow Six: Ashrit
+india Rocket League: jocse
+india Valorant: GodspeedxD
 =====================
 indonesia
 indonesia manager: Glorya Famiela
+indonesia Dota 2: you_K
+indonesia Honor of Kings: Glen
+indonesia League of Legends: BecakMogok
+indonesia ML:BB: Xepher
+indonesia PUBG: Awkar1nnnnnn / RDK
+indonesia PUBG: Mobile: Defiand
+indonesia Rainbow Six: gohaN
+indonesia Rocket League: Oscillon
+indonesia Valorant: roseau
 =====================
 iraq
 iraq manager: ENC Regional Manager
 =====================
 ireland
 ireland manager: Ronan Monaghan
+ireland Dota 2: Mousey
+ireland Honor Of Kings: iiely
+ireland League of Legends: Costacourta
+ireland ML:BB: Chalize
+ireland PUBG: tax
+ireland PUBG: Mobile: Frosti
+ireland Rainbow Six: PK
+ireland Rocket League: LTXSam
+ireland Valorant: mike.D
 =====================
 islamic-republic-of-iran
 islamic-republic-of-iran manager: ENC Regional Manager
 =====================
 israel
 israel manager: Gil Ronen
+israel Dota 2: 3161
+israel League of Legends: Jewdyr
+israel ML:BB: Syntax
+israel PUBG: quadra
+israel PUBG: Mobile: DanielHirsh1
+israel Rainbow Six: Syntax
+israel Rocket League: ImJustACat
+israel Valorant: nightmareK
 =====================
 italy
 italy manager: Gabriele Catterin
+italy Dota 2: vStrimi (formerly known as Streamiii)
+italy Honor of Kings: Rookiekj
+italy League of Legends: Gine
+italy ML:BB: TBA
+italy PUBG: Scoom
+italy PUBG: Mobile: Spinee
+italy Rainbow Six: Hybrid
+italy Rocket League: kuxir97
+italy Valorant: simoz
 =====================
 jamaica
 jamaica manager: Andrew Johnson
+jamaica League of Legends: DexTheAvenger
+jamaica PUBG: Mobile: Kuwii
+jamaica Rocket League: White_hawk29
 =====================
 japan
 japan manager: Kosuke Hiraiwa
+japan Honor of Kings: Cub3
+japan League of Legends: Paz
+japan ML:BB: Bomb
+japan PUBG: CiNVe
+japan PUBG: Mobile: MimoriN
+japan Rainbow Six: DD
+japan Rocket League: Nunki
+japan Valorant: Vorz
 =====================
 jordan
 jordan manager: Mohammad Majali
+jordan Dota 2: YapzOr
+jordan Honor of Kings: Okab
+jordan League of Legends: Butcher
+jordan ML:BB: Super
+jordan PUBG: ESAAWI
+jordan PUBG: Mobile: Apocalyp
+jordan Rainbow Six: Godly
+jordan Rocket League: Greetings
+jordan Valorant: BABABEAST
 =====================
 kazakhstan
 kazakhstan manager: Kazbek Zhangaziyev
+kazakhstan Dota 2: Hannah
+kazakhstan Honor of Kings: NeroN
+kazakhstan League of Legends: Kostanayskiy
+kazakhstan ML:BB: KING GVERB
+kazakhstan PUBG: Ermaak
+kazakhstan PUBG: Mobile: LASTHERO
+kazakhstan Rainbow Six: AldiYARGH
+kazakhstan Rocket League: CamoraneZEE
+kazakhstan Valorant: sultan
 =====================
 kenya
 kenya manager: Shon Osimbo
+kenya Dota 2: The Beast
+kenya Honor of Kings: TBA
+kenya League of Legends: Sagereal
+kenya ML:BB: Troy
+kenya PUBG: Smith
+kenya PUBG: Mobile: G0j0.
+kenya Rainbow Six: Moshoh_
+kenya Rocket League: CZY Serge
+kenya Valorant: TBA
 =====================
 kiribati
 kiribati manager: ENC Regional Manager
@@ -303,18 +648,49 @@ kosovo manager: ENC Regional Manager
 =====================
 kuwait
 kuwait manager: Abdulmohsen Ibrahim Alnooh
+kuwait League of Legends: Selson
+kuwait ML:BB: Ghostarica
+kuwait PUBG: Mobile: koutMadness
+kuwait Rainbow Six: -BoGLFa
+kuwait Rocket League: ScoB
+kuwait Valorant: ZiFE
 =====================
 kyrgyzstan
 kyrgyzstan manager: Nurbek Abdygulov
+kyrgyzstan Dota 2: Green
+kyrgyzstan Honor of Kings: Resp.Smoke
+kyrgyzstan League of Legends: D2k
+kyrgyzstan ML:BB: Efendi
+kyrgyzstan PUBG: do0kei
+kyrgyzstan PUBG: Mobile: NAWT
+kyrgyzstan Rocket League: LENNAR
+kyrgyzstan Valorant: zelo
 =====================
 lao
 lao manager: ENC Regional Manager
 =====================
 latvia
 latvia manager: Sandis Rainskis
+latvia Dota 2: ENE
+latvia League of Legends: Arlite
+latvia ML:BB: BigNut
+latvia PUBG: D1rsH
+latvia PUBG: Mobile: Papaelvis
+latvia Rainbow Six: Velocityyy
+latvia Rocket League: Emvy
+latvia Valorant: PTJj
 =====================
 lebanon
 lebanon manager: Ahmad Hamadani
+lebanon Dota 2: Eixn
+lebanon Honor of Kings: Dracula
+lebanon League of Legends: Unlimited
+lebanon ML:BB: Kōgetsu
+lebanon PUBG: SnorlaXx
+lebanon PUBG: Mobile: JAD
+lebanon Rainbow Six: MsamiX
+lebanon Rocket League: Sal
+lebanon Valorant: Rub1ck
 =====================
 lesotho
 lesotho manager: ENC Regional Manager
@@ -330,6 +706,14 @@ liechtenstein manager: ENC Regional Manager
 =====================
 lithuania
 lithuania manager: Sarunas Tamulis
+lithuania Dota 2: Mazaka
+lithuania League of Legends: KNOK1
+lithuania ML:BB: Impostor
+lithuania PUBG: Gaxy
+lithuania PUBG: Mobile: 1337TROOOOUBLE
+lithuania Rainbow Six: GudrusApuokas
+lithuania Rocket League: Ryuu
+lithuania Valorant: Nbs
 =====================
 luxembourg
 luxembourg manager: ENC Regional Manager
@@ -339,15 +723,37 @@ madagascar manager: ENC Regional Manager
 =====================
 malawi
 malawi manager: Robert Cheleuka
+malawi Dota 2: Manny ET
+malawi Honor of Kings: Proximus
+malawi League of Legends: thembap2
+malawi ML:BB: Nokia3310
+malawi PUBG: Timobify
+malawi PUBG: Mobile: Ｒ2Ｄ2
+malawi Rainbow Six: Shogun
+malawi Rocket League: Grimm2Salty
+malawi Valorant: wombat
 =====================
 malaysia
 malaysia manager: Amir Syafiq bin Abd Rashid
+malaysia Dota 2: 343
+malaysia Honor of Kings: Quinns
+malaysia League of Legends: Swak
+malaysia ML:BB: SaintDeLucaz
+malaysia PUBG: SlyDD
+malaysia PUBG: Mobile: Pasha
+malaysia Rocket League: TBA
+malaysia Valorant: Fayde
 =====================
 maldives
 maldives manager: ENC Regional Manager
 =====================
 mali
 mali manager: Mohamed Coulibaly
+mali League of Legends: Satsui No Adou
+mali ML:BB: L'ogre
+mali PUBG: TheGreaTeacher
+mali PUBG: Mobile: Wizardin
+mali Rainbow Six: fafnir_xbox
 =====================
 malta
 malta manager: ENC Regional Manager
@@ -363,24 +769,54 @@ mauritius manager: ENC Regional Manager
 =====================
 mexico
 mexico manager: Emmanuel Neyra
+mexico Dota 2: Arroyito
+mexico Honor of Kings: arvoinen
+mexico League of Legends: Deam
+mexico ML:BB: GMX-Dáré¢k
+mexico PUBG: Mobile: TBA
+mexico Rainbow Six: Royz
+mexico Rocket League: noly
+mexico Valorant: Atom
 =====================
 monaco
 monaco manager: ENC Regional Manager
 =====================
 mongolia
 mongolia manager: Maral Manlai
+mongolia Dota 2: NARMAN
+mongolia Honor of Kings: Lvlv
+mongolia League of Legends: Eucliwood
+mongolia ML:BB: Summer
+mongolia PUBG: Dopa
+mongolia PUBG: Mobile: Archer
+mongolia Rainbow Six: FuRa-.-
+mongolia Rocket League: Mr. Squiddy
+mongolia Valorant: Orgil
 =====================
 montenegro
 montenegro manager: ENC Regional Manager
 =====================
 morocco
 morocco manager: Saad Bassy
+morocco Dota 2: mellorine
+morocco Honor of Kings: URAHARAAAA
+morocco League of Legends: Memento
+morocco ML:BB: KAGE
+morocco PUBG: Naimi
+morocco PUBG: Mobile: ELCHAPO
+morocco Rainbow Six: Dxrk
+morocco Rocket League: Kassio
+morocco Valorant: Ewok
 =====================
 mozambique
 mozambique manager: ENC Regional Manager
 =====================
 myanmar
 myanmar manager: Kyaw Htet Lin
+myanmar Dota 2: Nyan Lin Thu
+myanmar Honor of Kings: Reflect
+myanmar ML:BB: Marvz
+myanmar PUBG: Mobile: NIKI
 =====================
 namibia
 namibia manager: ENC Regional Manager
@@ -393,9 +829,26 @@ nepal manager: ENC Regional Manager
 =====================
 netherlands
 netherlands manager: Brittany Lattanzio
+netherlands Dota 2: ImmortalFaith
+netherlands Honor of Kings: Erickao
+netherlands League of Legends: Gevous
+netherlands ML:BB: CrumZ
+netherlands PUBG: Mista
+netherlands PUBG: Mobile: iGrizzly
+netherlands Rainbow Six: eaglemees
+netherlands Rocket League: ViolentPanda
+netherlands Valorant: Milan
 =====================
 new-zealand
 new-zealand manager: Jonathan Jansen
+new-zealand Dota 2: Magic
+new-zealand League of Legends: Benvi
+new-zealand ML:BB: Vestion
+new-zealand PUBG: Kang
+new-zealand PUBG: Mobile: Vestion
+new-zealand Rainbow Six: WarTurtle
+new-zealand Rocket League: pascal
+new-zealand Valorant: Yifang
 =====================
 nicaragua
 nicaragua manager: ENC Regional Manager
@@ -405,18 +858,45 @@ niger manager: ENC Regional Manager
 =====================
 nigeria
 nigeria manager: Shola Adenipebi
+nigeria Dota 2: Dr.SID
+nigeria League of Legends: Shegz
+nigeria ML:BB: KAMI
+nigeria PUBG: Mobile: Rio
+nigeria Rocket League: Andre
+nigeria Valorant: Allen Walker
 =====================
 north-macedonia
 north-macedonia manager: ENC Regional Manager
 =====================
 norway
 norway manager: Kevin Mobekk
+norway Dota 2: CHILD
+norway League of Legends: Dacreq
+norway PUBG: FAENOTTO
+norway Rainbow Six: RandoSando
+norway Rocket League: Kasper
+norway Valorant: PUMA
 =====================
 oman
 oman manager: Hamed al Jahwari
+oman Honor of Kings: Mazin
+oman League of Legends: Mouafak
+oman ML:BB: Hamdan
+oman PUBG: Mobile: YallaRShedan
+oman Rainbow Six: Abdoo
+oman Rocket League: BeastBound
+oman Valorant: ZesBeew
 =====================
 pakistan
 pakistan manager: Danyal Arshad Chishty
+pakistan Dota 2: Tultras
+pakistan Honor of Kings: Hect
+pakistan League of Legends: Firework
+pakistan ML:BB: UzairTzy
+pakistan PUBG: Mobile: Khann
+pakistan Rainbow Six: MightyAli
+pakistan Rocket League: GroundZero000
+pakistan Valorant: Skel
 =====================
 palau
 palau manager: ENC Regional Manager
@@ -432,18 +912,59 @@ papua-new-guinea manager: ENC Regional Manager
 =====================
 paraguay
 paraguay manager: Esteban Lindgren
+paraguay Dota 2: Dxnt-
+paraguay Honor of Kings: HeyCarlos
+paraguay League of Legends: Retzu
+paraguay ML:BB: Best Chou
+paraguay PUBG: Farivero
+paraguay PUBG: Mobile: Bel
+paraguay Rainbow Six: Rules
+paraguay Rocket League: Charizardpy
+paraguay Valorant: Inthra
 =====================
 peru
 peru manager: Christian Roque
+peru Dota 2: Vintage
+peru Honor of Kings: NewCosmo
+peru League of Legends: Kouke
+peru ML:BB: Karma
+peru PUBG: Judro
+peru PUBG: Mobile: Lugoboy
+peru Rocket League: Soru
+peru Valorant: giaNco
 =====================
 philippines
 philippines manager: Leo Andrew Escutin
+philippines Dota 2: JL
+philippines Honor of Kings: Tgee
+philippines League of Legends: Coach Leathergoods
+philippines ML:BB: Ducky
+philippines PUBG: Mobile: 4thRow
+philippines Valorant: Rbtx
 =====================
 poland
 poland manager: Adrian Błaszczyk
+poland Dota 2: Boskey
+poland Honor of Kings: HUS•Ponury
+poland League of Legends: Nahovsky
+poland ML:BB: Kiyo.
+poland PUBG: TBA
+poland PUBG: Mobile: Kehayoyo
+poland Rainbow Six: Murarz
+poland Rocket League: bruz
+poland Valorant: yaotziN.
 =====================
 portugal
 portugal manager: Armando Vale
+portugal Dota 2: TouroUrso
+portugal Honor of Kings: Kaiba
+portugal League of Legends: Guilhoto
+portugal ML:BB: Hunter
+portugal PUBG: Gnomo
+portugal PUBG: Mobile: STADO
+portugal Rainbow Six: Vivas
+portugal Rocket League: Xpére
+portugal Valorant: Bati
 =====================
 puerto-rico
 puerto-rico manager: ENC Regional Manager
@@ -453,9 +974,25 @@ qatar manager: ENC Regional Manager
 =====================
 republic-of-moldova
 republic-of-moldova manager: Vasile Gavrilita
+republic-of-moldova Dota 2: Cloud
+republic-of-moldova League of Legends: Lunarage
+republic-of-moldova ML:BB: Toffix
+republic-of-moldova PUBG: MEFM23
+republic-of-moldova PUBG: Mobile: MEFM23
+republic-of-moldova Rainbow Six: F3LLY.M32
+republic-of-moldova Rocket League: p1ckUP
+republic-of-moldova Valorant: FELLY
 =====================
 romania
 romania manager: Mihai Daniel Cotos
+romania Dota 2: Mangusu
+romania Honor of Kings: IBO
+romania League of Legends: Razvan
+romania ML:BB: Rin.
+romania PUBG: Iuriboi
+romania PUBG: Mobile: Joyboy
+romania Rocket League: Cristyan337
+romania Valorant: Albala
 =====================
 russia
 russia manager: ENC Regional Manager
@@ -480,12 +1017,35 @@ sao-tome-and-principe manager: ENC Regional Manager
 =====================
 saudi-arabia
 saudi-arabia manager: Abdallah Khalid Alnamlah
+saudi-arabia Dota 2: Devil
+saudi-arabia Honor of Kings: HamZawy
+saudi-arabia League of Legends: Edward
+saudi-arabia ML:BB: Lyrick
+saudi-arabia PUBG: Mobile: Starzh
+saudi-arabia Rainbow Six: MadSkiils.
+saudi-arabia Rocket League: d7oom-24
+saudi-arabia Valorant: Andreas
 =====================
 senegal
 senegal manager: El Hadji Mansour Jacques Sagna
+senegal Dota 2: CLAOSNIPER
+senegal Honor of Kings: BK ROG Cédric
+senegal League of Legends: L9 K2C #0205
+senegal ML:BB: KaWosky
+senegal PUBG: NX1LAMINE
+senegal PUBG: Mobile: HADESzz
+senegal Rainbow Six: malcom
+senegal Rocket League: ChefLivai
+senegal Valorant: Kiréne
 =====================
 serbia
 serbia manager: Milan Đukić
+serbia Dota 2: hairy_freak
+serbia League of Legends: Spale
+serbia PUBG: itsDUL1K
+serbia PUBG: Mobile: eXpLegija
+serbia Rocket League: 1stNexx
+serbia Valorant: pakko
 =====================
 seychelles
 seychelles manager: ENC Regional Manager
@@ -495,12 +1055,29 @@ sierra-leone manager: ENC Regional Manager
 =====================
 singapore
 singapore manager: Jeremiah Olga
+singapore Honor of Kings: Yue Nuo
+singapore League of Legends: TBA
+singapore ML:BB: Kayzeepi
+singapore Rainbow Six: Lunarmetal
+singapore Rocket League: Kash
+singapore Valorant: benkai
 =====================
 slovakia
 slovakia manager: Denis Uhrik
+slovakia Dota 2: Fazuliak
+slovakia League of Legends: SyLees
+slovakia PUBG: Mobile: madrac
+slovakia Rainbow Six: Pathes.L2P
+slovakia Rocket League: Hyp.
+slovakia Valorant: Landry
 =====================
 slovenia
 slovenia manager: Rok Avbelj
+slovenia Dota 2: Pasul
+slovenia League of Legends: Flarke
+slovenia Rainbow Six: Josip
+slovenia Rocket League: Keda
+slovenia Valorant: KHorror
 =====================
 solomon-islands
 solomon-islands manager: ENC Regional Manager
@@ -510,12 +1087,29 @@ somalia manager: ENC Regional Manager
 =====================
 south-africa
 south-africa manager: Michele Brondani
+south-africa Dota 2: Dowi
+south-africa Honor of Kings: DirtyhumaN
+south-africa League of Legends: Zypherr
+south-africa ML:BB: Waylander
+south-africa PUBG: VG_BLU3
+south-africa PUBG: Mobile: NighTT
+south-africa Rainbow Six: Odin
+south-africa Rocket League: Snaski
+south-africa Valorant: Fury
 =====================
 south-sudan
 south-sudan manager: ENC Regional Manager
 =====================
 spain
 spain manager: David Alonso
+spain Honor of Kings: Acolyte
+spain League of Legends: mithy
+spain ML:BB: Arashi Moba
+spain PUBG: dAvidbeNi
+spain PUBG: Mobile: Taber
+spain Rainbow Six: Alo
+spain Rocket League: Braan
+spain Valorant: thinkii
 =====================
 sri-lanka
 sri-lanka manager: ENC Regional Manager
@@ -531,18 +1125,50 @@ suriname manager: ENC Regional Manager
 =====================
 sweden
 sweden manager: Robin Jedhammar
+sweden Dota 2: Loda
+sweden League of Legends: YamatoCannon
+sweden PUBG: aRIEL-__
+sweden PUBG: Mobile: Frosz
+sweden Rainbow Six: Tiseis
+sweden Rocket League: Lem0naZ
+sweden Valorant: d00mbr0s
 =====================
 switzerland
 switzerland manager: Marissa Duret
+switzerland Dota 2: erklaerbaer
+switzerland League of Legends: imb4h
+switzerland Rainbow Six: Elemzje
+switzerland Rocket League: Extra
+switzerland Valorant: holden
 =====================
 syrian-arab-republic
 syrian-arab-republic manager: Omar Nakkaa
+syrian-arab-republic Dota 2: ScorpDota
+syrian-arab-republic Honor of Kings: White Whale
+syrian-arab-republic PUBG: RvG_JustPush
+syrian-arab-republic PUBG: Mobile: ELIAS88
+syrian-arab-republic Rainbow Six: Aziz
+syrian-arab-republic Rocket League: Hexawi
+syrian-arab-republic Valorant: Prometheus
 =====================
 tajikistan
 tajikistan manager: Turaev Firdavs
+tajikistan Dota 2: Rishakle
+tajikistan ML:BB: eL Gringo
+tajikistan PUBG: NumberOne
+tajikistan PUBG: Mobile: TAPOK
+tajikistan Rocket League: ser10US 1
 =====================
 thailand
 thailand manager: Panupong Ongkhunarak
+thailand Dota 2: Poom
+thailand Honor of Kings: AJ
+thailand League of Legends: Hoon
+thailand ML:BB: Hank
+thailand PUBG: Tan
+thailand PUBG: Mobile: Tanny
+thailand Rainbow Six: Vorn
+thailand Valorant: Best
 =====================
 togo
 togo manager: ENC Regional Manager
@@ -555,12 +1181,36 @@ trinidad-and-tobago manager: ENC Regional Manager
 =====================
 tunisia
 tunisia manager: Khalil Bessaoud
+tunisia Dota 2: Rubbin
+tunisia Honor of Kings: Xs
+tunisia League of Legends: ThinUnclePhil
+tunisia ML:BB: BomBi
+tunisia PUBG: Hikken
+tunisia PUBG: Mobile: CYNIC
+tunisia Rainbow Six: Kendrew
+tunisia Rocket League: ImaginaXion
+tunisia Valorant: Djaz
 =====================
 turkiye
 turkiye manager: Mert Tanriverdi
+turkiye Dota 2: leni
+turkiye Honor of Kings: ASG
+turkiye League of Legends: craft1x
+turkiye ML:BB: Midnight
+turkiye PUBG: ctrkN
+turkiye PUBG: Mobile: F0r1st
+turkiye Rainbow Six: Julio
+turkiye Rocket League: zgocbrayt
+turkiye Valorant: KEY
 =====================
 turkmenistan
 turkmenistan manager: Mekan Eyeberdiyev
+turkmenistan Dota 2: XYZ
+turkmenistan Honor of Kings: Dowyanji
+turkmenistan ML:BB: Dowyanji
+turkmenistan PUBG: Mobile: Commander X
+turkmenistan Rainbow Six: Dealer
+turkmenistan Valorant: aufina
 =====================
 tuvalu
 tuvalu manager: ENC Regional Manager
@@ -570,6 +1220,15 @@ uganda manager: ENC Regional Manager
 =====================
 ukraine
 ukraine manager: Mykyta Babych
+ukraine Dota 2: Ghostik
+ukraine Honor of Kings: TBA
+ukraine League of Legends: WildHeart
+ukraine ML:BB: TBA
+ukraine PUBG: ALREIN
+ukraine PUBG: Mobile: Bamb1ni
+ukraine Rainbow Six: GHOOD BHOY
+ukraine Rocket League: Skeenny_
+ukraine Valorant: Johnta
 =====================
 united-arab-emirates
 united-arab-emirates manager: Abdelrahman Mohamed
@@ -579,12 +1238,30 @@ united-republic-of-tanzania manager: ENC Regional Manager
 =====================
 united-states-of-america
 united-states-of-america manager: Daniel Clerke
+united-states-of-america Dota 2: Blitz
+united-states-of-america Honor of Kings: Dave
+united-states-of-america League of Legends: Inero
+united-states-of-america ML:BB: Sir Rose
+united-states-of-america PUBG: GUNNER
+united-states-of-america PUBG: Mobile: H.H.24
+united-states-of-america Rainbow Six: Fabian
+united-states-of-america Rocket League: Satthew
+united-states-of-america Valorant: JoshRT
 =====================
 uruguay
 uruguay manager: Gastón García
+uruguay League of Legends: Hyperion
+uruguay PUBG: Mobile: MarcoPoppi
+uruguay Rocket League: fedegimenezoc
+uruguay Valorant: Near
 =====================
 uzbekistan
 uzbekistan manager: Jaloliddin Khusanov
+uzbekistan Dota 2: jAM3S
+uzbekistan Honor of Kings: SS.Farrukh
+uzbekistan ML:BB: ARRIVEDERCI
+uzbekistan PUBG: Mobile: SXBRAWERRINHO
+uzbekistan Valorant: Rusty
 =====================
 vanuatu
 vanuatu manager: ENC Regional Manager
@@ -594,6 +1271,12 @@ venezuela manager: ENC Regional Manager
 =====================
 vietnam
 vietnam manager: Cao (Celine) Thi Thu Phuong
+vietnam Honor of Kings: TiTi
+vietnam League of Legends: Naul
+vietnam ML:BB: Theo
+vietnam PUBG: DJ Chip
+vietnam PUBG: Mobile: GE
+vietnam Valorant: Kawa
 =====================
 virgin-Islands-british
 virgin-Islands-british manager: ENC Regional Manager
@@ -606,6 +1289,14 @@ yemen manager: ENC Regional Manager
 =====================
 zambia
 zambia manager: Choolwe Elen Shabukali
+zambia Dota 2: Artdepartment
+zambia Honor of Kings: TBA
+zambia League of Legends: TBA
+zambia ML:BB: BIG BEN
+zambia PUBG: Squ33ky
+zambia PUBG: Mobile: Kage
+zambia Rainbow Six: M0jAE
+zambia Rocket League: sponsobobas
 =====================
 zimbabwe
 zimbabwe manager: ENC Regional Manager
