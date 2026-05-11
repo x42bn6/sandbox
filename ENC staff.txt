@@ -217,7 +217,7 @@ chile
 chile manager: Tomás Mosqueira
 chile Dota 2: Ghost
 chile Honor Of Kings: LeGiON
-chile Apex Legends: Glon
+chile League of Legends: Glon
 chile Mobile Legends: Bang Bang: Laintime
 chile PUBG: Battlegrounds: ernzxr
 chile PUBG Mobile: Mia
@@ -261,7 +261,7 @@ cote-dIvoire League of Legends: Toiquatorze
 cote-dIvoire Mobile Legends: Bang Bang: Bindcrusher
 cote-dIvoire PUBG Mobile: ZOZO
 cote-dIvoire Rocket League: Docglish
-cote-dIvoire VALORANT: Snowkone
+cote-dIvoire VALORANT: Kiro
 =====================
 croatia
 croatia manager: Nikola Stolnik
@@ -278,7 +278,6 @@ cuba manager: Javier Vidal
 cuba Dota 2: D3troiT
 cuba PUBG: Battlegrounds: LACHYPLAY
 cuba Rainbow 6 Siege: DelyfoX
-cuba Rocket League: Infinity
 =====================
 cyprus
 cyprus manager: ENC Regional Manager
@@ -462,9 +461,23 @@ grenada manager: ENC Regional Manager
 =====================
 guam
 guam manager: Ken San Nicolas
+guam League of Legends: Revoshark or Rev
+guam Mobile Legends: Bang Bang: Maine
+guam Rainbow 6 Siege: Bran Hernandez
+guam Rocket League: Turtles
+guam VALORANT: Swehts
 =====================
 guatemala
 guatemala manager: Pablo Melgar
+guatemala Dota 2: Ashlom
+guatemala Honor Of Kings: COR_ScorpioN
+guatemala League of Legends: Adniel
+guatemala Mobile Legends: Bang Bang: EXBROUSEN
+guatemala PUBG: Battlegrounds: Joshua_Gco_
+guatemala PUBG Mobile: Nahuelboy
+guatemala Rainbow 6 Siege: Kastiiel07
+guatemala Rocket League: AJSa
+guatemala VALORANT: Poper
 =====================
 guinea
 guinea manager: ENC Regional Manager
@@ -480,6 +493,14 @@ haiti manager: ENC Regional Manager
 =====================
 honduras
 honduras manager: Rafael Urbina
+honduras Dota 2: Milo
+honduras Honor Of Kings: Bradleyy
+honduras League of Legends: Hwan
+honduras Mobile Legends: Bang Bang: Moon
+honduras PUBG: Battlegrounds: Mauro
+honduras Rainbow 6 Siege: Bronci
+honduras Rocket League: FerEmS
+honduras VALORANT: Ecxilon
 =====================
 hungary
 hungary manager: Kis Balázs
@@ -494,6 +515,11 @@ hungary VALORANT: victorsoN
 =====================
 iceland
 iceland manager: Bjarki Már Sigurðsson
+iceland Dota 2: woofer
+iceland League of Legends: Aloxeo
+iceland PUBG: Battlegrounds: stinni91
+iceland Rocket League: Vaddimah
+iceland VALORANT: Axel
 =====================
 india
 india manager: Akhil Kavuturu
@@ -663,7 +689,7 @@ lebanon PUBG: Battlegrounds: SnorlaXx
 lebanon PUBG Mobile: JAD
 lebanon Rainbow 6 Siege: MsamiX
 lebanon Rocket League: Sal
-lebanon VALORANT: Rub1ck
+lebanon VALORANT: TBA
 =====================
 lesotho
 lesotho manager: ENC Regional Manager
@@ -1154,6 +1180,15 @@ trinidad-and-tobago manager: ENC Regional Manager
 =====================
 tunisia
 tunisia manager: Khalil Bessaoud
+tunisia Dota 2: Rubbin
+tunisia Honor Of Kings: Xs
+tunisia League of Legends: ThinUnclePhil
+tunisia Mobile Legends: Bang Bang: BomBi
+tunisia PUBG: Battlegrounds: Hikken
+tunisia PUBG Mobile: CYNIC
+tunisia Rainbow 6 Siege: Kendrew
+tunisia Rocket League: ImaginaXion
+tunisia VALORANT: Djaz
 =====================
 turkiye
 turkiye manager: Mert Tanriverdi
